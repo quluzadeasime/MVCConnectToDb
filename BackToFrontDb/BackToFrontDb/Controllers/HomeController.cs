@@ -2,11 +2,11 @@
 {
     public class HomeController : Controller
     {
-        //AppDbContext _dbContext;
-        //public HomeController(AppDbContext dbContext)
-        //{
-        //    _dbContext = dbContext;
-        //}
+        AppDbContext _dbContext;
+        public HomeController(AppDbContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
         public IActionResult Index()
         {
             Slider slider = new Slider
@@ -145,17 +145,17 @@
             homeVM.Cards = cards;
 
 
-            //_dbContext.Sliders.Add(slider);
-            //_dbContext.Sliders.Add(slider2);
-            //_dbContext.Works.Add(work);
-            //_dbContext.Works.Add(work2);
-            //_dbContext.Works.Add(work3);
-            //_dbContext.Works.Add(work4);
-            //_dbContext.Works.Add(work5);
-            //_dbContext.Works.Add(work6);
-            //_dbContext.SaveChanges();
+            _dbContext.Sliders.Add(slider);
+            _dbContext.Sliders.Add(slider2);
+            _dbContext.Works.Add(work);
+            _dbContext.Works.Add(work2);
+            _dbContext.Works.Add(work3);
+            _dbContext.Works.Add(work4);
+            _dbContext.Works.Add(work5);
+            _dbContext.Works.Add(work6);
+            _dbContext.SaveChanges();
 
-           
+
             return View(homeVM);
         }
     }

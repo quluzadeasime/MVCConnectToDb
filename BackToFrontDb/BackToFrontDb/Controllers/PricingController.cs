@@ -1,6 +1,4 @@
-﻿
-
-namespace BackToFrontDb.Controllers
+﻿namespace BackToFrontDb.Controllers
 {
     public class PricingController : Controller
     {

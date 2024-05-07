@@ -7,52 +7,60 @@
       "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\migrations\\20240507042432_createsliderandwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\migrations\\20240507042432_createsliderandwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\controllers\\singleworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\singleworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\migrations\\20240507042432_createsliderandwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\migrations\\20240507042432_createsliderandwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +75,16 @@
       "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\controllers\\singleworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\singleworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507041048_createSliderAndWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackToFrontDb\\Migrations\\20240507041048_createSliderAndWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|c:\\users\\asime\\desktop\\backdb\\backtofrontdb\\backtofrontdb\\migrations\\20240507094555_add-migration createmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8195A2-A418-41DA-967C-8C2F089C6E22}|BackToFrontDb\\BackToFrontDb.csproj|solutionrelative:backtofrontdb\\migrations\\20240507094555_add-migration createmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -103,104 +111,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T06:20:40.955Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackToFrontDb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:55:59.355Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T05:58:55.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BackToFrontDb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T04:01:39.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Program.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Program.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Program.cs",
-              "RelativeToolTip": "BackToFrontDb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:59:31.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240507042432_createSliderAndWork.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
-              "RelativeToolTip": "BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAACsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T04:24:32.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Card.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Models\\Card.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Card.cs",
-              "RelativeToolTip": "BackToFrontDb\\Models\\Card.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T05:12:07.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PricingController.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\PricingController.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\PricingController.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\PricingController.cs",
-              "RelativeToolTip": "BackToFrontDb\\Controllers\\PricingController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:04:53.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Work\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Views\\Work\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Work\\Index.cshtml",
-              "RelativeToolTip": "BackToFrontDb\\Views\\Work\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T06:09:03.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "WorkController.cs",
               "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\WorkController.cs",
               "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\WorkController.cs",
@@ -212,43 +135,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "BackToFrontDb\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:27:36.871Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BackToFrontDb\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAAAHMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:55:59.355Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "BackToFrontDb\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAGoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T06:09:03.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "BackToFrontDb\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:05:15.909Z"
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BackToFrontDb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAFoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T04:01:39.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Work.cs",
               "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Work.cs",
               "RelativeDocumentMoniker": "BackToFrontDb\\Models\\Work.cs",
@@ -260,43 +171,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Slider.cs",
-              "RelativeToolTip": "BackToFrontDb\\Models\\Slider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Card.cs",
+              "RelativeToolTip": "BackToFrontDb\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:23:20.463Z"
+              "WhenOpened": "2024-05-07T05:12:07.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\GlobalUsing.cs",
-              "RelativeToolTip": "BackToFrontDb\\GlobalUsing.cs",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BackToFrontDb\\Controllers\\ContactController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T05:05:46.747Z"
+              "WhenOpened": "2024-05-07T03:05:15.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "BackToFrontDb\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "BackToFrontDb\\ViewModels\\HomeVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "DocumentIndex": 0,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "BackToFrontDb\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T04:00:07.647Z"
+              "WhenOpened": "2024-05-07T03:04:53.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "SIngleWorkController.cs",
               "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\SIngleWorkController.cs",
               "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\SIngleWorkController.cs",
@@ -308,7 +222,127 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BackToFrontDb\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:27:36.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Program.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Program.cs",
+              "RelativeToolTip": "BackToFrontDb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:59:31.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\appsettings.json",
+              "RelativeDocumentMoniker": "BackToFrontDb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\appsettings.json",
+              "RelativeToolTip": "BackToFrontDb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T09:47:48.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240507094555_add-migration CreateModels.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507094555_add-migration CreateModels.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Migrations\\20240507094555_add-migration CreateModels.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507094555_add-migration CreateModels.cs",
+              "RelativeToolTip": "BackToFrontDb\\Migrations\\20240507094555_add-migration CreateModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:45:55.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BackToFrontDb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:58:55.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BackToFrontDb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T06:20:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240507042432_createSliderAndWork.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
+              "RelativeToolTip": "BackToFrontDb\\Migrations\\20240507042432_createSliderAndWork.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:24:32.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Models\\Slider.cs",
+              "RelativeToolTip": "BackToFrontDb\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:23:20.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\GlobalUsing.cs",
+              "RelativeToolTip": "BackToFrontDb\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:05:46.747Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "BackToFrontDb\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "BackToFrontDb\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:00:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "BackToFrontDb\\Controllers\\AboutController.cs",
@@ -320,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "20240507041048_createSliderAndWork.cs",
               "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\BackDb\\BackToFrontDb\\BackToFrontDb\\Migrations\\20240507041048_createSliderAndWork.cs",
               "RelativeDocumentMoniker": "BackToFrontDb\\Migrations\\20240507041048_createSliderAndWork.cs",
